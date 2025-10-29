@@ -9,7 +9,7 @@ Oi, eu sou a Jakeline 👋
 Python | Java | C | MySQL | Git | HTML | CSS | JavaScript | Angular | React Native  
 
 🌟 Competências principais:
-- Resolução de Problemas**: Transformo desafios em soluções eficientes  
+- Resolução de Problemas: Transformo desafios em soluções eficientes  
 - Aprendizado Contínuo: Sempre buscando evoluir e aprender novas tecnologias  
 - Trabalho em Equipe: Colaboração e comunicação eficaz em projetos  
 - Criatividade e Inovação: Propondo ideias novas e práticas  
