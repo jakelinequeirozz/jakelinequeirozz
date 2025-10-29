@@ -16,7 +16,7 @@ Python | Java | C | MySQL | Git | HTML | CSS | JavaScript | Angular | React Nati
 - Organização e Produtividade: Gestão de tarefas e projetos com foco em resultados  
 
 📫 Como me encontrar:
-[LinkedIn](https://www.linkedin.com/in/jakelinequeirozz/) | [GitHub](https://github.com/jakelinequeirozz) | [Email](mailto:seuemail@exemplo.com)  
+[LinkedIn](https://www.linkedin.com/in/jakeline-da-silva-queiroz-599581364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/jakelinequeirozz) | [Email](mailto:seuemail@exemplo.com)  
 
 ⚡ Fun Facts:
 - Amo filmes de terror e livros do Stephen King 👻  
