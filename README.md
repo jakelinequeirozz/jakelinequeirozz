@@ -1,16 +1,24 @@
-## Hi there 👋
+Oi, eu sou a Jakeline 👋  
 
-<!--
-**jakelinequeirozz/jakelinequeirozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia da Computação | Técnica em Informática
 
-Here are some ideas to get you started:
+🌱 Apaixonada por tecnologia, aprendizado contínuo e inovação.  
+🚀 Explorando o mundo do desenvolvimento de software  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tecnologias que utilizo:
+Python | Java | C | MySQL | Git | HTML | CSS | JavaScript | Angular | React Native  
+
+🌟 Competências principais:
+- Resolução de Problemas**: Transformo desafios em soluções eficientes  
+- Aprendizado Contínuo: Sempre buscando evoluir e aprender novas tecnologias  
+- Trabalho em Equipe: Colaboração e comunicação eficaz em projetos  
+- Criatividade e Inovação: Propondo ideias novas e práticas  
+- Organização e Produtividade: Gestão de tarefas e projetos com foco em resultados  
+
+📫 Como me encontrar:
+[LinkedIn](https://www.linkedin.com/in/jakelinequeirozz/) | [GitHub](https://github.com/jakelinequeirozz) | [Email](mailto:seuemail@exemplo.com)  
+
+⚡ Fun Facts:
+- Amo filmes de terror e livros do Stephen King 👻  
+- Gato lover 🐱  
+- Curiosa por astronomia e tecnologia 🌌
