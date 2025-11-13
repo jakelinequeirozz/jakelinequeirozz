@@ -1,14 +1,16 @@
 # 👋 Oi, eu sou a Jakeline!
 
-🎓 Estudante de **Engenharia da Computação** na Uninorte  
+🎓 Estudante de **Engenharia da Computação** na **Uninorte**  
 💻 Apaixonada por tecnologia, educação e projetos que transformam realidades  
-🌱 Atualmente aprendendo **Java** e desenvolvendo projetos em **Python** e **C**
+📍 Manaus – Amazonas 🌴  
+
+> “É nóis do Norte, bicho! 💚 Sempre com garra e coragem pra ir além!”
 
 ---
 
-### 🧠 Linguagens e Tecnologias que eu estudo:
+### 🧠 Linguagens e Tecnologias que estou estudando:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,31 +18,24 @@
 
 ---
 
-### 🌎 Onde me encontrar:
-📧 **jakelineq376@gmail.com**  
-📱 [WhatsApp](https://wa.me/5592995080225)  
-💼 [LinkedIn](https://linkedin.com/in/jakelinequeiroz)  
-📷 [Instagram](https://instagram.com/jakeline_br)  
-🐦 [Twitter](https://twitter.com/jakeline_ldr)  
-
----
-
 ### 💡 Um pouco sobre mim:
-> “Acredito que tecnologia e educação podem mudar o mundo — e quero fazer parte dessa mudança.”
-
-Sou uma pessoa curiosa, dedicada e apaixonada por aprender. Já participei de projetos de inclusão digital e hackathons, e amo transformar ideias em código ✨  
-
----
-
-### 📊 Estatísticas do GitHub:
-![Jakeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakelinequeiroz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinequeiroz&layout=compact&theme=radical)
+Sou uma pessoa curiosa, dedicada e apaixonada por aprender.  
+Acredito que a tecnologia pode abrir portas e mudar vidas — especialmente quando usada com propósito e empatia.  
+Já participei de hackathons, projetos de inclusão digital e extensão acadêmica, sempre buscando fazer a diferença onde estiver 🌻
 
 ---
 
-### ✨ Imagem animada de programadora:
-<img src="https://i.pinimg.com/originals/ba/5a/bc/ba5abc7cf60a8ce40d5a80acb15a4b4a.gif" width="400"/>
+### 🌎 Onde me encontrar:
+📱 **WhatsApp:** [92 99508-0225](https://wa.me/5592995080225)  
+💼 **LinkedIn:** [Jakeline da Silva Queiroz](https://www.linkedin.com/in/jakeline-da-silva-queiroz-599581364)  
+📷 **Instagram:** [@jakeline_br](https://www.instagram.com/jakeline_br)
 
 ---
 
-⭐️ Feito com carinho por **Jakeline Queiroz** 💛
+### 📊 Minhas estatísticas do GitHub:
+![Jakeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakelinequeiroz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinequeiroz&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Feito com carinho direto de **Manaus – AM** 💚
