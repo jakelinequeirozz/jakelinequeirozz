@@ -2,9 +2,7 @@
 
 🎓 Estudante de **Engenharia da Computação** na **Uninorte**  
 💻 Apaixonada por tecnologia, educação e projetos que transformam realidades  
-📍 Manaus – Amazonas 🌴  
-
-> “É nóis do Norte, bicho! 💚 Sempre com garra e coragem pra ir além!”
+🌱 Sempre buscando aprender algo novo e crescer a cada linha de código  
 
 ---
 
@@ -19,9 +17,9 @@
 ---
 
 ### 💡 Um pouco sobre mim:
-Sou uma pessoa curiosa, dedicada e apaixonada por aprender.  
-Acredito que a tecnologia pode abrir portas e mudar vidas — especialmente quando usada com propósito e empatia.  
-Já participei de hackathons, projetos de inclusão digital e extensão acadêmica, sempre buscando fazer a diferença onde estiver 🌻
+Sou curiosa, dedicada e apaixonada por aprender.  
+Acredito que a tecnologia é uma ponte entre ideias e possibilidades.  
+Gosto de participar de projetos que unem propósito, criatividade e impacto 🌻  
 
 ---
 
@@ -32,10 +30,4 @@ Já participei de hackathons, projetos de inclusão digital e extensão acadêmi
 
 ---
 
-### 📊 Minhas estatísticas do GitHub:
-![Jakeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakelinequeiroz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinequeiroz&layout=compact&theme=tokyonight)
-
----
-
-⭐ Feito com carinho direto de **Manaus – AM** 💚
+💫✨💻🌸🌿
